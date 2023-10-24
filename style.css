@@ -17,3 +17,36 @@ h1 {
 h2{
   text-align: center;
 }
+
+#chapter2{
+  background-color:aqua;
+  width: 315px;
+  height: 412px;
+  margin-left: 10%;
+  border: 10px solid red;
+  float: left;
+  display: block;
+
+  
+}
+
+#chapter3 {
+  float: right;
+  margin-right: 10%;
+  display: block;
+
+}
+
+#chapter4 {
+  width: 315px;
+  height: 412px;
+  background-color: orange;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+h3{
+  text-align: center;
+}
