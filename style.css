@@ -12,41 +12,44 @@ body {
 
 h1 {
   text-align: center;
+  font-size: 100px;
 }
 
 h2{
   text-align: center;
+  font-size: 50px;
 }
 
 #chapter2{
-  background-color:aqua;
-  width: 315px;
-  height: 412px;
-  margin-left: 10%;
-  border: 10px solid red;
+  background-color:white;
+  width:700px;
+  height: 450px;
+  margin-left: 5%;
+  border: 10px solid black;
+  border-radius: 5%;
   float: left;
   display: block;
+  margin-top: 1cm;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  
 
   
 }
 
 #chapter3 {
   float: right;
-  margin-right: 10%;
+  margin-right: 25%;
   display: block;
-
+  width: 10cm;
+  margin-top: 1cm;
 }
 
-#chapter4 {
-  width: 315px;
-  height: 412px;
-  background-color: orange;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 
 
 h3{
   text-align: center;
+  font-size: 30px;
 }
