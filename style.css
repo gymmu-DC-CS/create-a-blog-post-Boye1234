@@ -59,7 +59,7 @@ h3{
 
 #chapterI{
   background-color: white;
-  height: 2cm;
+  height: 3cm;
   width: 50%;
   margin-left: 25%;
   margin-right: 25%;
@@ -111,3 +111,9 @@ h3{
 }
 #chapter2:hover{
   transform: scale(1.2);
+}
+#chapter7{
+  background-color: red;
+  height: 5cm;
+  margin-top: 12cm;
+}
