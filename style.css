@@ -52,44 +52,6 @@ h3{
   text-align: center;
   font-size: 30px;
 }
-
-#chapter4{
-  background-image: url(hintergrund.png);
-  transition: all 0.5s ease-in-out;
-  height: 10cm;
-  width: 10cm;
-  float: left;
-  margin-left: 5%;
-  margin-top: 1.4cm;
-  border-radius: 5%;
-  border:10px solid black
-}
-
-#chapter5{
-  background-image: url(hintergrund.png);
-  transition: all 0.5s ease-in-out;
-  height: 10cm;
-  width: 10cm;
-  float: left;
-  margin-left: 10%;
-  margin-top: 1.4cm;
-  border-radius: 5%;
-  border:10px solid black
-
-}
-
-#chapter6{
-  background-image: url(hintergrund.png); 
-  transition: all 0.5s ease-in-out;
-  height: 10cm;
-  width: 10cm;
-  float: right;
-  margin-right: 5%;
-  margin-top: 1.4cm;
-  border-radius: 5%;
-  border:10px solid black
-  
-}
 #chapterZ{
   height: 15cm;
   background-color: white;
@@ -102,29 +64,4 @@ h3{
   margin-left: 25%;
   margin-right: 25%;
 }
-
-
-.chapter7 {
-  margin-top: 13cm;
-  height: 5cm;
-  width: 5cm;
-  margin-left: 10cm;
-  background-color: aqua;
-  margin-bottom: 10cm;
-  transition: all 2s;
-}
-
-#chapter4:hover{
-  transform: scale(1.3);
-}
-#chapter5:hover{
-  transform: scale(1.3);
-}
-#chapter6:hover{
-  transform: scale(1.3);
-}
-#chapter2:hover{
-  transform: scale(1.2);
-}
-
 
