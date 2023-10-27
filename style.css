@@ -386,7 +386,6 @@ nav {
 nav ul {
   padding-left: 40.5%;
   float: left;
-  margin-left:0%;
 }  
 
 nav ul li {
@@ -434,8 +433,16 @@ nav ul li a {
   margin-top: 12cm;
 }
 
-#pictures{
+#pictures {
   height: 5cm;
+  animation-name: achilles;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes achilles {
+  0% {float: right; margin-right: 10%;}
+  100% {float: left;margin-left: 10%;}
 }
 
 #videos:hover{
