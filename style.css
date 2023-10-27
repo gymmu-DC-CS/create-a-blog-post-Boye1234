@@ -412,6 +412,7 @@ nav ul li a {
   margin-right: 15%
 }
 #videos{
+  transition: all 0.5s ease-in-out;
   float: left;
   height: 8cm;
   width: 35%;
@@ -435,4 +436,8 @@ nav ul li a {
 
 #pictures{
   height: 5cm;
+}
+
+#videos:hover{
+  transform: scale(1.1);
 }
