@@ -10,9 +10,14 @@ body {
   font-family: sans-serif;
 }
 
-h1 {
-  text-align: center;
+#chapterTIT {
+  margin-top: 3cm;
+  text-align: center
+}
+
+h1{
   font-size: 100px;
+  text-align: center
 }
 
 h2{
@@ -305,7 +310,7 @@ h3{
 #chapterLF5{
   float: left;
   height: 0.7cm;
-  margin-top: -4cm;
+  margin-top: -5cm;
   margin-left: 48%;
   font-size: 20px;
 }
@@ -357,7 +362,7 @@ h3{
   background-color: black;
   height: 3cm;
   width: 0.3cm;
-  margin-left: 22%;
+  margin-left: 50%;
   margin-top: -4cm;
 }
 
@@ -365,4 +370,38 @@ h3{
   float: right;
   margin-top: -4cm;
   margin-right: 4%;
+}
+
+#chapter0{
+  background-color:white;
+  height: 0.2cm;
+  margin-top: 4.5cm;
+}
+
+nav {
+  top: 0;
+  width: 100%;
+  height: 1cm;
+  padding-bottom: 1.2cm;
+  background-color: black;
+  position:absolute
+}
+
+nav ul {
+  padding-left: 44%;
+  float: left;
+  margin-left:0%;
+}  
+
+nav ul li {
+  float: left;
+  list-style: none;
+  position: relative;
+}
+
+nav ul li a {
+  color: white;
+  font-size: 24px;
+  display: block;
+  padding: 10px;
 }
