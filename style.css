@@ -112,8 +112,26 @@ h3{
 #chapter2:hover{
   transform: scale(1.2);
 }
-#chapter7{
+
+#chapterP{
   background-color: red;
-  height: 5cm;
-  margin-top: 12cm;
+  height:5cm;
+  margin-top: 15cm;
+}
+
+.chapter7 {
+  width: 80%;
+  margin-left: 10%;
+  height: 1cm;
+  background-color: black;
+  margin-top: 15cm;
+}
+.chapter8 {
+  width: 20%;
+  height: 550%;
+  transition: 2s;
+}
+
+.chapter7:hover .chapter8{
+  transform: translateX(463%);
 }
