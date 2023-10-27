@@ -369,8 +369,9 @@ h3{
 
 #chapter0{
   background-color:white;
-  height: 0.2cm;
+  height: 4cm;
   margin-top: 4.5cm;
+  padding-top: 1cm;
 }
 
 nav {
@@ -383,7 +384,7 @@ nav {
 }
 
 nav ul {
-  padding-left: 44%;
+  padding-left: 40.5%;
   float: left;
   margin-left:0%;
 }  
@@ -401,4 +402,25 @@ nav ul li a {
   padding: 10px;
 }
 
-#map
+#map{
+  float: right;
+  width: 35%;
+  border-color: black;
+  height: 10cm;
+  
+  padding-bottom: 2cm;
+  margin-right: 10%
+}
+#videos{
+  float: left;
+  height: 8cm;
+  width: 35%;
+  margin-left: 10%;
+  border: 10px solid black;
+  background-color: white;
+  border-radius: 5%;
+  font-size: 22px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
