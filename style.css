@@ -66,6 +66,10 @@ h3{
 }
 
 #chapter4{
+  font-size: 22px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
   transition: all 0.5s ease-in-out;
   background-image: url(hintergrund.png);
   float: left;
@@ -78,6 +82,10 @@ h3{
 }
 
 #chapter5{
+  font-size: 22px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   transition: all 0.5s ease-in-out;
   background-image: url(hintergrund.png);
   float: right;
@@ -90,6 +98,10 @@ h3{
 }
 
 #chapter6{
+  font-size: 22px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   transition: all 0.5s ease-in-out;
   background-image: url(hintergrund.png);
   float: right;
@@ -242,10 +254,111 @@ h3{
 }
 
 #chapterL{
-  background-color: red;
-  height: 1.5cm;
-  margin-top: -5cm;
+  float: left;
+  height: 1.2cm;
+  margin-top: -5.5cm;
   width: 6%;
   margin-left:8%;
   font-size: 35px;
+  background-color: white;
+}
+
+#chapterD{
+  float: right;
+  height: 1.5cm;
+  margin-top: -5.5cm;
+  width: 6%;
+  margin-right:8%;
+  font-size: 35px;
+}
+
+#chapterLF1{
+  float: left;
+  height: 0.7cm;
+  margin-top: -4cm;
+  margin-left: 16%;
+  font-size: 20px;
+}
+
+#chapterLF2{
+  float: left;
+  height: 0.7cm;
+  margin-top: -4cm;
+  margin-left: 24%;
+  font-size: 20px;
+}
+
+#chapterLF3{
+  float: left;
+  height: 0.7cm;
+  margin-top: -4cm;
+  margin-left: 32%;
+  font-size: 20px;
+}
+
+#chapterLF4{
+  float: left;
+  height: 0.7cm;
+  margin-top: -4cm;
+  margin-left: 40%;
+  font-size: 20px;
+}
+
+#chapterLF5{
+  float: left;
+  height: 0.7cm;
+  margin-top: -4cm;
+  margin-left: 48%;
+  font-size: 20px;
+}
+
+#chapterLF6{
+  float: left;
+  height: 0.7cm;
+  margin-top: -4cm;
+  margin-left: 56%;
+  font-size: 20px;
+}
+
+#chapterLF7{
+  float: left;
+  height: 0.7cm;
+  margin-top: -4cm;
+  margin-left: 64%;
+  font-size: 20px;
+}
+
+#chapterLF8{
+  float: left;
+  height: 0.7cm;
+  margin-top: -4cm;
+  margin-left: 72%;
+  font-size: 20px;
+}
+
+#chapterLF9{
+  float: left;
+  height: 0.7cm;
+  margin-top: -4cm;
+  margin-left: 80%;
+  font-size: 20px;
+}
+
+#chapterE1{
+  float: left;
+  height: 1.2cm;
+  margin-top: -5.5cm;
+  width: 6%;
+  margin-left:20%;
+  font-size: 35px;
+  background-color: white;
+}
+
+#t12{
+  float: left;
+  background-color: black;
+  height: 3cm;
+  width: 0.3cm;
+  margin-left: 22%;
+  margin-top: -4cm;
 }
